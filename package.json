@@ -1,0 +1,31 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galanthusan/01-node-basics.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Alexandra Lesogorova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galanthusan/01-node-basics/issues"
+  },
+  "homepage": "https://github.com/Galanthusan/01-node-basics#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "yargs": "^16.2.0"
+  }
+}
